@@ -3,8 +3,8 @@ Helpdesk &amp; Issue tracker for Everything Bagel realms
 
 <div align="center">
   
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/DismalShadowX/project-tracker?style=for-the-badge&label=Issues)](https://github.com/DismalShadowX/project-tracker/issues)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/DismalShadowX/project-tracker?style=for-the-badge&label=PR)](https://github.com/DismalShadowX/project-tracker/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/DismalShadowX/project-tracker?style=for-the-badge&label=Issues)](https://github.com/DismalShadowX/project-tracker/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/DismalShadowX/project-tracker?style=for-the-badge&label=Pull%20Requests)](https://github.com/DismalShadowX/project-tracker/pulls)
 
 </div>
 
