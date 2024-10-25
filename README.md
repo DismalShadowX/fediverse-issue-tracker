@@ -13,11 +13,22 @@ Helpdesk &amp; Issue tracker for Everything Bagel realms
   
 [![Mastodon](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Fmastodon-health%2Fuptime.json&style=for-the-badge&label=Mastodon&logo=mastodon)](https://everythingbagel.social)
 [![Peertube](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Feverything-video%2Fuptime.json&style=for-the-badge&label=Peertube&logo=peertube)](https://video.everythingbagel.me)
-[![Mbin](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Feverything-hub%2Fuptime.json&style=for-the-badge&label=Mbin&logo=mbin)](https://hub.everythingbagel.me)
-
 [![Pixelfed](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Fpixelfed-health%2Fuptime.json&style=for-the-badge&label=Pixelfed&logo=pixelfed)](https://pixel.everythingbagel.me)
+
+[![Mbin](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Feverything-hub%2Fuptime.json&style=for-the-badge&label=Mbin&logo=mbin)](https://hub.everythingbagel.me)
+[![Writefreely](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Feverything-press%2Fuptime.json&style=for-the-badge&label=Writefreely&logo=writefreely)](https://press.everythingbagel.me)
+
+</div>
+
+## 📈 Side Projects & Experiments
+<div align="center">
+  
+[![Ghost](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Fin-light-and-in-shadow%2Fuptime.json&style=for-the-badge&label=Ghost&logo=ghost)](https://scribe.everythingbagel.me)
 [![WordPress](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Fshadow-s-blogosphere%2Fuptime.json&style=for-the-badge&label=WordPress&logo=wordpress)](https://blog.everythingbagel.me)
 [![Nextcloud](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Feverything-cloud%2Fuptime.json&style=for-the-badge&label=nextcloud&logo=nextcloud)](https://cloud.everythingbagel.me)
+
+[![Mobilizon](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Fshadow-s-blogosphere%2Fuptime.json&style=for-the-badge&label=Mobilizon&logo=mobilizon)](https://events.everythingbagel.me)
+[![SMF](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Fhelpdesk%2Fuptime.json&style=for-the-badge&label=smf&logo=smf)](https://support.everythingbagel.me)
 
 </div>
 
