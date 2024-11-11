@@ -11,7 +11,7 @@ Helpdesk &amp; Issue tracker for Everything Bagel realms
 ## 📈 Projects Uptime
 <div align="center">
   
-[![Mastodon](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Fmastodon-health%2Fuptime.json&style=for-the-badge&label=Mastodon&logo=mastodon)](https://everythingbagel.social)
+[![Mastodon](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Fmastodon-web%2Fuptime.json&style=for-the-badge&label=Mastodon&logo=mastodon)](https://everythingbagel.social)
 [![Peertube](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Feverything-video%2Fuptime.json&style=for-the-badge&label=Peertube&logo=peertube)](https://video.everythingbagel.me)
 [![Pixelfed](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDismalShadowX%2Fupptime%2Fmaster%2Fapi%2Fpixelfed-health%2Fuptime.json&style=for-the-badge&label=Pixelfed&logo=pixelfed)](https://pixel.everythingbagel.me)
 
